@@ -12,7 +12,8 @@ Create a simple "Hello World" AP, which does the following:
 
 # Running the app
 // environment is staging and production you need to specify one depending on where you want to run the applicaiton(default = staging)
-> NODE_ENV=<environment> node index.js
+> NODE_ENV=environment_name node index.js
+  
   e.g > NODE_ENV=production node index.js
 
 
